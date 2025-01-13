@@ -1,0 +1,1 @@
+將UTM保存在Cookie，提供後續回拋至第三方系統。Saving UTM in the cookie of browser, Ensuring that UTM parameters are not lost during HTTP transmission.
