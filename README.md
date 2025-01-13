@@ -4,7 +4,7 @@ Saving UTM in the cookie of browser, Ensuring that UTM parameters are not lost d
 
 ## 使用步驟
 將tpl下載下來，或直接至GTM的範本頁面搜尋 - UTM_Cookie_Store
-(因GOOGLE審核範本較緩慢，如搜尋不到請改為手動下載，再直接匯入至GTM即可，此腳本為台灣黑客數位公司提供，無植入功能以外程式碼，請放心使用。)
+(因GOOGLE審核較緩慢，如搜尋不到請手動下載，再直接匯入至GTM。此為黑客數位提供，無植入功能以外程式碼，請放心使用。)
 (如果有搜尋到，請忽略以下步驟。)
 
 
