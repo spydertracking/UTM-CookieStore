@@ -11,4 +11,4 @@ Saving UTM in the cookie of browser, Ensuring that UTM parameters are not lost d
 在GTM的"範本選單 點選新增(new)，並點選右上角的選單，再點選匯入，選擇下載好的tpl檔即可完成!
 
 
-後續在GTM的代碼選單裡面，即可開始使用，輕鬆撰寫dlv的電子商務資料至GTM。
+後續在GTM的代碼選單裡面，即可開始使用。
