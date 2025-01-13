@@ -1,5 +1,5 @@
 homepage: "https://github.com/spyder-com-tw/UTM_Cookie_Store"
 documentation: "https://github.com/spyder-com-tw/UTM_Cookie_Store/blob/main/README.md"
 versions:
-  - sha: 86a61cc580d2ead24d7f8bb25228d8b40d91ad76
+  - sha: 8e02685c1106cb3382c7f3101c90a77ff5863107
     changeNotes: 更新cookie功能
